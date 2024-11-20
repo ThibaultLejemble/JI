@@ -1,0 +1,2 @@
+La dernière ligne `PS: portez ce vieux whisky au juge blond qui fume!` est particulière dans son contenu. 
+Elle contient 50 caractères (incluant les espaces), et doit donc correspondre aux 50 derniers caractères chiffrés `... FF VX XV DD XX`.
