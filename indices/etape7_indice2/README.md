@@ -1,0 +1,1 @@
+La lettre 'e' est la plus fréquente, ainsi la lettre la plus fréquente dans le message chiffré doit correspondre à 'e'.

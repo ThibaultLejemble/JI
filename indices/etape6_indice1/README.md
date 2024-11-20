@@ -1,0 +1,1 @@
+Les images contienent beacoup de caractères spéciaux, mais certains caractères sont plus intéressants pour trouver des nombres secrets.

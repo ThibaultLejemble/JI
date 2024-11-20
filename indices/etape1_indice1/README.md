@@ -1,0 +1,1 @@
+Quelle portion de message semble similaire entre le message clair et le message codé ?

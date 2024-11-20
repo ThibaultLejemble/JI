@@ -1,0 +1,1 @@
+Il semblerait utile de créer le carré de Polybe avec un tableau 2D en Python, c'est-à-dire une liste de liste.
